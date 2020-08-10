@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a sample project.
 - 🌱 I’m currently learning lot of things
 - 👯 I’m looking to collaborate on web development projects
-- 🤔 I’m looking for help with Design Patterns
+- 🤔 I’m looking for help with AI
 - ⚡ Fun fact: I like :video_game: | :spaghetti: | :sleeping:
 
 ### Connect with me:
